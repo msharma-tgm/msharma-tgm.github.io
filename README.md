@@ -1,3 +1,2 @@
-# 
-## Developer in
-### Java, Swift, JS, Python, PHP
+# Moksh Sharma
+## Developer in Java, Swift, Kotlin, Python and learning more!
